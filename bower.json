@@ -1,0 +1,11 @@
+{
+	"name": "MEAN-Geolocation-App-Client",
+	"dependencies": {
+		"angular": "1.4.5",
+		"angular-route": "1.4.5",
+		"angular-leaflet-directive": "0.10.0",
+		"leaflet": "0.7.7",
+		"Leaflet.awesome-markers": "2.0.2",
+		"bootstrap": "3.3.7"
+	}
+}
